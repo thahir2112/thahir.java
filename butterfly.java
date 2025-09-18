@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class pattaambuchi {
+public class butterfly {
     public static void main(String [] args){
     Scanner in = new Scanner (System.in);
 
